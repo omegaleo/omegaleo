@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuno "Omega Leo" Diogo</h1>
 <h3 align="center">A passionate game developer from Portugal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omegaleo" alt="omegaleo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nunodiogodev" target="blank"><img src="https://img.shields.io/twitter/follow/nunodiogodev?logo=twitter&style=for-the-badge" alt="nunodiogodev" /></a> </p>
-
 - 🔭 I’m currently working on [Nemithia](https://nemithia.pt)
 
 - 🌱 I’m currently learning **Game Dev, Game Design, C++, Unreal**
@@ -12,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://omegaleo.pt](https://omegaleo.pt)
 
 - 📫 How to reach me **nunodiogo@omegaleo.pt**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omegaleo" alt="omegaleo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
